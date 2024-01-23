@@ -114,6 +114,12 @@
  
 Подсказка: используйте директиву `UPDATE`.
 
+## Ответ 4
+
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/3b4a3df9-6597-4a5c-9239-802e104f9336)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/09673773-8a14-44a4-b3df-e643b6b0ea05)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/46615f3e-c4b0-41f9-8b9d-4f29f75da576)
+
 ## Задача 5
 
 Получите полную информацию по выполнению запроса выдачи всех пользователей из задачи 4 
