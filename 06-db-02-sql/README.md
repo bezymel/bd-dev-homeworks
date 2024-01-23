@@ -49,13 +49,9 @@
 
 ## Ответ 2
 
-![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/3ad16fca-bcd6-41cc-9cb6-ba8edae87ffa)
-![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/cd859170-0dd4-412b-a5ec-dcb4e8a5109c)
-![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/1c5e1366-3112-4596-9354-d242d0fc65c6)
-![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/46e8537b-101d-4d8c-a7da-43577be9cd94)
-![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/15ae6e9c-db67-48ee-9c17-7b5ca9bba4cd)
-![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/3d06d98e-41fe-4b0f-9cd2-01d502523b1b)
-![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/f4d50268-5f67-4675-b4bc-3665ecb94862)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/75ea5b71-b78a-4431-a9ab-422fa837e56c)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/e1d3ac5f-26d8-4901-9631-296ca6d9b3a8)
+
 
 
 ## Задача 3
