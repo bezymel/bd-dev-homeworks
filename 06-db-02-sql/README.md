@@ -56,6 +56,7 @@
 ![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/46e8537b-101d-4d8c-a7da-43577be9cd94)
 ![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/15ae6e9c-db67-48ee-9c17-7b5ca9bba4cd)
 ![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/3d06d98e-41fe-4b0f-9cd2-01d502523b1b)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/f4d50268-5f67-4675-b4bc-3665ecb94862)
 
 
 ## Задача 3
