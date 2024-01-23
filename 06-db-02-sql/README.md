@@ -91,6 +91,11 @@
     - запросы,
     - результаты их выполнения.
 
+## Ответ 3
+
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/45576775-f057-4f39-83bb-ae67d55a1cff)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/8f060d85-762f-46cf-9272-c4811060f83a)
+
 ## Задача 4
 
 Часть пользователей из таблицы clients решили оформить заказы из таблицы orders.
