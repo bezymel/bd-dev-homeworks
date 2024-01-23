@@ -53,6 +53,8 @@
 ![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/75ea5b71-b78a-4431-a9ab-422fa837e56c)
 ![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/e1d3ac5f-26d8-4901-9631-296ca6d9b3a8)
 ![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/2d3c0d75-7f32-4782-a69d-6d831047275c)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/d305fc2c-da6b-4778-9a06-8d96418c9755)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/dadec47e-6043-41b1-83df-9ebc9800850d)
 
 
 ## Задача 3
