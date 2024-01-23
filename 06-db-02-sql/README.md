@@ -159,8 +159,12 @@
 
 ## Ответ 6
 
-![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/7005d60f-624c-4839-81a7-fa63c5dc6b2b)
-
+* sudo docker run --rm --volumes-from project_postgres_1 -v project_backup:/backups -e PGPASSWORD=mypassword  postgres:12 pg_dump -h 172.20.0.2 -p 5432 -U test-admin-user -d test_db -f /home/bezumel/project/backups/test_db.backup
+* sudo docker stop project_postgres_1
+* sudo docker run --name project_postgres_2 -e POSTGRES_PASSWORD=mypassword -v project_data:/var/lib/postgresql/data -d postgres:12
+* sudo docker run --rm --volumes-from project_postgres_2 -v project_backup:/backups -e PGPASSWORD=mypassword postgres:12 pg_restore -h 172.20.0.2 -p 5432 -U test-admin-user -d test_db -c /home/bezumel/project/backups/test_db.backup
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/0403cf0c-745f-4044-a124-06d0d6bb59df)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/f1c8c970-c59a-4ddd-acd9-3cf97162e587)
 
 ---
 
