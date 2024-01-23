@@ -14,9 +14,8 @@
 
 ## Ответ 1
 
-![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/4915236b-2a88-4762-8aa0-d93ef9a8c666)
-![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/f636ef08-84a0-41ec-a5dd-5fd48b80ec80)
-
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/427a47e0-37da-41a0-9cd3-18c1abe9fb19)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/d157f020-d6fe-4284-a50c-74bc448206e4)
 
 ## Задача 2
 
