@@ -50,7 +50,7 @@
 
 ## Ответ 2
 
-
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/b928b0a0-d094-4a0b-b603-4fec532adef1)
 
 ## Задача 3
 
