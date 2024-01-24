@@ -82,6 +82,10 @@
 
 Приведите в ответе изменённый файл `my.cnf`.
 
+## Ответ 4
+
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/46c65c81-904a-41a4-b924-0f2db1809c45)
+
 ---
 
 ### Как оформить ДЗ
