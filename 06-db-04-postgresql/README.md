@@ -38,6 +38,13 @@
 
 **Приведите в ответе** команду, которую вы использовали для вычисления, и полученный результат.
 
+## Ответ 2
+
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/a3c661c2-e638-45f2-a810-18708e6a2da1)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/bd497ced-ee5f-422f-8b90-d1bb7c827ecf)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/77e68b6f-e0f1-4200-9cfd-fb6cad9ba8bd)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/eb5cda3d-74a0-4a13-8db1-e6d12989c59c)
+
 ## Задача 3
 
 Архитектор и администратор БД выяснили, что ваша таблица orders разрослась до невиданных размеров и
