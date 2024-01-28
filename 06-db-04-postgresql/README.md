@@ -67,6 +67,12 @@
 
 Как бы вы доработали бэкап-файл, чтобы добавить уникальность значения столбца `title` для таблиц `test_database`?
 
+## Ответ 4
+
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/c95d9cc1-f02f-42ab-a03c-7e31cf5a3041)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/741f83cb-4d2a-48bc-a3f2-8ca64a6ae47a)
+![image](https://github.com/bezymel/bd-dev-homeworks/assets/129361495/dd76dbbc-60af-4a9d-a78f-dfda2bac19fb)
+
 ---
 
 ### Как cдавать задание
